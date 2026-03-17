@@ -1,0 +1,17 @@
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfoInputs.cache
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.AssemblyInfo.cs
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.sourcelink.json
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.exe
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.deps.json
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.runtimeconfig.json
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.dll
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\bin\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.dll
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\refint\InvoiceTotal.dll
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.pdb
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\InvoiceTotal.genruntimeconfig.cache
+C:\Users\jjose\Documents\CSharpHomework\Csharp-hw7-1\InvoiceTotal\obj\Debug\net7.0-windows\ref\InvoiceTotal.dll
